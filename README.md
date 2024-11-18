@@ -15,7 +15,7 @@ A lightning-fast command-line tool for electronics engineers and hobbyists that 
 git clone https://github.com/SaurabPoudel/resistor_finder.git
 cd resistor_finder
 cargo build --release
-sudo cp target/release/resistor_finder_cli /usr/local/bin/
+sudo cp target/release/resistor_finder /usr/local/bin/
 ```
 
 # Help
